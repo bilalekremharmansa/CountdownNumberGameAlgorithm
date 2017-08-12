@@ -1,0 +1,2 @@
+# CountdownNumberGameAlgorithm
+Countdown-NumberGame algorithm implementation
